@@ -1,0 +1,19 @@
+let opcao ='pastel'
+
+switch(opcao){
+
+case 'hb1':'pastel de frango'
+      alert ('pastel de frango está com preço de R$15,50')
+ break
+case 'hb2':'pastel de carne'
+        alert ('pastel de carne está com preço de R$14,50')
+ break
+case 'hb3':'pastel de banana'
+        alert ('pastel de banana está com preço de R$19,50')
+ break
+case 'hb4':'pastel de banana com creme de avelã'
+        alert ('pastel de banana está com preço de R$20,50')
+ break
+    default:
+        alert ('Opção invalida')
+break
